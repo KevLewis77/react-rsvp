@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-rsvp/static/css/main.2825f7b2.chunk.css",
+    "main.js": "/react-rsvp/static/js/main.d5ce602c.chunk.js",
+    "main.js.map": "/react-rsvp/static/js/main.d5ce602c.chunk.js.map",
+    "runtime~main.js": "/react-rsvp/static/js/runtime~main.a07f1f1d.js",
+    "runtime~main.js.map": "/react-rsvp/static/js/runtime~main.a07f1f1d.js.map",
+    "static/js/2.67c1c55e.chunk.js": "/react-rsvp/static/js/2.67c1c55e.chunk.js",
+    "static/js/2.67c1c55e.chunk.js.map": "/react-rsvp/static/js/2.67c1c55e.chunk.js.map",
+    "index.html": "/react-rsvp/index.html",
+    "precache-manifest.0ceecd63e2dcd20965353e8c8227dae9.js": "/react-rsvp/precache-manifest.0ceecd63e2dcd20965353e8c8227dae9.js",
+    "service-worker.js": "/react-rsvp/service-worker.js",
+    "static/css/main.2825f7b2.chunk.css.map": "/react-rsvp/static/css/main.2825f7b2.chunk.css.map",
+    "static/media/index.css": "/react-rsvp/static/media/header-bg.be92ab00.jpg"
+  }
+}
